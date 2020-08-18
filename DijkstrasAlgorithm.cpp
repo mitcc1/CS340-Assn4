@@ -7,7 +7,6 @@ Dijkstra's Algorithm
 #include<iostream>
 #include<climits>  
 
-
 using namespace std;
 #define infinity 9999
 #define size 6
